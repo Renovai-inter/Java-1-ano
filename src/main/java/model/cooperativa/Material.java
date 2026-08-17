@@ -4,7 +4,7 @@ public class Material {
 
     private int codigo;
     private String categoria;
-    private String nome;
+    private String nome; // ceofiw9dhj9wi
     private double quantidadeSolicitada;
     private double valorPorKg;
 

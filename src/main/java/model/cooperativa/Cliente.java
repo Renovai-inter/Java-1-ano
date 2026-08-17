@@ -6,7 +6,7 @@ public class Cliente {
         private String nome;
         private String observacoes;
         private String email;
-        private String cidade; //linha
+        private String cidade;
         private String telefone;
 
         public Cliente(int codigoComprador, String nome, String observacoes, String email, String cidade, String whatsapp, String telefone){
