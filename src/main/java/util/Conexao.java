@@ -26,6 +26,11 @@ public class Conexao {
             throw new RuntimeException(e);
 
         }
+    }
 
+    public void disconnect(java.sql.Connection conn) {
+        if (conn != null) {
+            try { conn.close(); } catch (SQLException e) { e.printStackTrace(); }
+        }
     }
 }
