@@ -17,6 +17,14 @@ public class CooperativaDAO {
 
     // UPDATE
 
+//    Nome da cooperativa; editarNome()
+//    CNPJ; editarCNPJ();
+//    Nome do responsável; editarResponsavel()
+//    E-mail; editarEmail()
+//    Telefone; editarTelefone()
+//    Endereço; editarEndereco()
+//    Data de fundação (opcional). editarDataFundacao
+
 
     // DELETE
 

@@ -19,7 +19,8 @@ public class ColetaDAO {
 
     // UPDATE
 
-
+//    iniciarColeta() -> Define status como Em andamento
+//    finalizarColeta() -> Define status como Concluído e cadastra pesos de materiais e tipos
 
     // DELETE
 
