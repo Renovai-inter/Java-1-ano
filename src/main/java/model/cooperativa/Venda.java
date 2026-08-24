@@ -19,4 +19,60 @@ public class Venda {
         this.idCooperativa = idCooperativa;
         this.idComprador = idComprador;
     }
+
+    public int getCodigoVenda() {
+        return codigoVenda;
+    }
+
+    public void setCodigoVenda(int codigoVenda) {
+        this.codigoVenda = codigoVenda;
+    }
+
+    public String getOrigemVenda() {
+        return origemVenda;
+    }
+
+    public void setOrigemVenda(String origemVenda) {
+        this.origemVenda = origemVenda;
+    }
+
+    public String getStatusVenda() {
+        return statusVenda;
+    }
+
+    public void setStatusVenda(String statusVenda) {
+        this.statusVenda = statusVenda;
+    }
+
+    public String getDataVenda() {
+        return dataVenda;
+    }
+
+    public void setDataVenda(String dataVenda) {
+        this.dataVenda = dataVenda;
+    }
+
+    public double getValorVenda() {
+        return valorVenda;
+    }
+
+    public void setValorVenda(double valorVenda) {
+        this.valorVenda = valorVenda;
+    }
+
+    public int getIdCooperativa() {
+        return idCooperativa;
+    }
+
+    public void setIdCooperativa(int idCooperativa) {
+        this.idCooperativa = idCooperativa;
+    }
+
+    public int getIdComprador() {
+        return idComprador;
+    }
+
+    public void setIdComprador(int idComprador) {
+        this.idComprador = idComprador;
+    }
 }

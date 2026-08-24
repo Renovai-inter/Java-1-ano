@@ -85,4 +85,8 @@ public class Coleta {
     public void setTipoColeta(String tipoColeta) {
         this.tipoColeta = tipoColeta;
     }
+
+
+
+
 }

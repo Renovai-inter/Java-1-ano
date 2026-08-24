@@ -75,4 +75,7 @@ public class Rateio {
     public void setPeriodo(int periodo) {
         this.periodo = periodo;
     }
+
+
+
 }

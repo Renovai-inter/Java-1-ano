@@ -96,4 +96,7 @@ public class Endereco {
     public void setCidade(String cidade) {
         this.cidade = cidade;
     }
+
+
+
 }

@@ -61,12 +61,4 @@ public class Cooperativa {
     public void setLogo(String logo) {
         this.logo = logo;
     }
-
-    public String getDataCadastro() {
-        return dataCadastro;
-    }
-
-    public void setDataCadastro(String dataCadastro) {
-        this.dataCadastro = dataCadastro;
-    }
 }

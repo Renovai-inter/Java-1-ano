@@ -75,4 +75,7 @@ public class Cooperado {
     public void setPrimeiroStatus(String primeiroStatus) {
         this.primeiroStatus = primeiroStatus;
     }
+
+
+
 }

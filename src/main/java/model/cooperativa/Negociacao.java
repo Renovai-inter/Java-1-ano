@@ -55,4 +55,7 @@ public class Negociacao {
     public void setDataNegociacao(String dataNegociacao) {
         this.dataNegociacao = dataNegociacao;
     }
+
+
+
 }

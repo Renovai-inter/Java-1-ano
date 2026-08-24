@@ -54,5 +54,8 @@ public class Material {
 
     public void setValorPorKg(double valorPorKg) {
         this.valorPorKg = valorPorKg;
+
+
+
     }
 }
