@@ -14,7 +14,7 @@ public class Conexao {
     private static final String PASSWORD =
             "";
 
-    public static Connection conectar() {
+    public Connection conectar() {
 
         try {
             return DriverManager.getConnection(URL, USER, PASSWORD);
