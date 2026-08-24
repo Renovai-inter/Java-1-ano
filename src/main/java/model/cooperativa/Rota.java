@@ -11,4 +11,6 @@ public class Rota {
         this.diasDaSemana = diasDaSemana;
         this.nome = nome;
     }
+
+
 }
