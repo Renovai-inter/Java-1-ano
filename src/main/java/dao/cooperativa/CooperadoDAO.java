@@ -24,7 +24,6 @@ public class CooperadoDAO {
 //    Alterar o status do cooperado (Ativo, Afastado ou Inativo);
 //    Alterar as permissões de acesso ao sistema. (gestor)
 
-
     // DELETE
 
 //    Remover o cooperado da cooperativa.

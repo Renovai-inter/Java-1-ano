@@ -2,6 +2,10 @@ package dao.cooperativa;
 
 import util.Conexao;
 
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
 public class CooperativaDAO {
 
     Conexao conexao = new Conexao();
@@ -10,6 +14,7 @@ public class CooperativaDAO {
     }
 
     // CREATE
+
 
 
     // READ
@@ -24,6 +29,18 @@ public class CooperativaDAO {
 //    Telefone; editarTelefone()
 //    Endereço; editarEndereco()
 //    Data de fundação (opcional). editarDataFundacao
+
+    public String editarNome(String nome, ) {
+        Connection conn = conexao.conectar();
+
+        String sql = """
+                
+                """
+
+        try {
+            PreparedStatement comando = conn.prepareStatement(sql);
+        }
+    }
 
 
     // DELETE
